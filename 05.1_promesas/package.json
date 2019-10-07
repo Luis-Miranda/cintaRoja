@@ -1,0 +1,19 @@
+{
+  "name": "06_promesas",
+  "version": "1.0.0",
+  "description": "Clase Promesas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "promesas",
+    "api"
+  ],
+  "author": "Luis Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
